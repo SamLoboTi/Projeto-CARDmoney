@@ -8,7 +8,6 @@
 
 ## Objetivo
 - Limpar, padronizar e preparar os dados coletados para inserção em banco de dados SQL (SQLite, MySQL ou PostgreSQL).
-![Captura de tela_5-11-2025_181119_fivetran com (1)](https://github.com/user-attachments/assets/3cf5d193-b826-4434-8dfa-93bbaff7178a)
 
 ## Principais etapas do processo
 1. **Coleta de dados**: leitura do CSV bruto `produtos_dummy.csv` gerado pelo scraper ou API.  
@@ -32,4 +31,17 @@
 
 - Dados prontos para serem carregados em qualquer banco SQL.
 
-![Captura de tela_10-11-2025_92847_dbc-df17ceda-4606 cloud databricks com](https://github.com/user-attachments/assets/004876c2-02f3-4d7c-9e28-a7c1e313873e)
+![Captura de tela_10-11-2025_92847_dbc-df17ceda-4606 cloud databricks com](https://github.com/user-attachments/assets/f3cd3123-1c32-4538-80fa-5a3b673cecc4)
+
+![Captura de tela_5-11-2025_181119_fivetran com (1)](https://github.com/user-attachments/assets/4fa5d55b-1f0d-4878-82ef-4d279c7a8120)
+
+![Captura de tela_5-11-2025_181119_fivetran com](https://github.com/user-attachments/assets/9c822726-7052-4287-8441-3bb7e46ad6fe)
+
+![Captura de tela_3-11-2025_113147_fivetran com](https://github.com/user-attachments/assets/bb4e1ee5-b30d-4164-bf29-a09d49251fc4)
+
+![Captura de tela_30-10-2025_21016_www linkedin com](https://github.com/user-attachments/assets/515faa50-16fd-42d6-a35c-e34aa93a92fd)
+
+
+
+
+
