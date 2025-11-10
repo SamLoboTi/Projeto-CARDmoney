@@ -8,6 +8,7 @@
 
 ## Objetivo
 - Limpar, padronizar e preparar os dados coletados para inserção em banco de dados SQL (SQLite, MySQL ou PostgreSQL).
+![Captura de tela_5-11-2025_181119_fivetran com (1)](https://github.com/user-attachments/assets/3cf5d193-b826-4434-8dfa-93bbaff7178a)
 
 ## Principais etapas do processo
 1. **Coleta de dados**: leitura do CSV bruto `produtos_dummy.csv` gerado pelo scraper ou API.  
@@ -28,4 +29,7 @@
 
 ## Resultado final
 - Arquivo CSV `produtos_refinados.csv` pronto para ETL.  
+
 - Dados prontos para serem carregados em qualquer banco SQL.
+
+![Captura de tela_10-11-2025_92847_dbc-df17ceda-4606 cloud databricks com](https://github.com/user-attachments/assets/004876c2-02f3-4d7c-9e28-a7c1e313873e)
